@@ -1,5 +1,5 @@
 # Weather_App
-Webiste : https://div932.github.io/Weather_App/
+Webiste : file:///C:/Users/Hp/OneDrive/Documents/Weather_app/Weather_App-main%20(1)/Weather_App-main/index.html
 
 Displays Weather Report of the searched city.
 
